@@ -1,0 +1,10 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+  width: 80%;
+  margin: 70px auto;
+  overflow: hidden;
+  text-align: center;
+
+}
